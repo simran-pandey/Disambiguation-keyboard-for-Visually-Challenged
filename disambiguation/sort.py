@@ -1,7 +1,7 @@
 import re
 import unicodedata
-f1 = open('C:\Users\Akshay\Desktop\IDC\output.txt','r')
-f2 = open('C:\Users\Akshay\Desktop\IDC\hindic.txt','w')
+f1 = open('C:\Users\pande\Desktop\IDC\output.txt','r')
+f2 = open('C:\Users\pande\Desktop\IDC\hindic.txt','w')
 freq= []
 dictionary = []
 for line in f1:
