@@ -13,8 +13,8 @@ Please cite us if you use this code or corpus.
   volume = 	 {16},\
   series = 	 {Adjunct Proceedings of INTERACT 2017},\
   month = 	 {24--29 Sept},\
-  pdf = 	 {http://ifip-tc13.org/wp-content/uploads/2018/03/INTERACT_2017_Adjunct_v4_final_24jan.pdf},\
-  url = 	 {http://ifip-tc13.org/interact/interact2017-adjunct/}\
+  pdf = 	 {http://ifip-tc13.org/wp-content/uploads/2018/03/INTERACT_2017_Adjunct_v4_final_24jan.pdf},<br>
+  url = 	 {http://ifip-tc13.org/interact/interact2017-adjunct/} <br>
 }
 
 For any clarification, comments, or suggestions please create an issue or contact pandeysimran97@gmail.com
