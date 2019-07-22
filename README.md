@@ -1,7 +1,7 @@
 # Disambiguation keyboard for Blind
 
 Citation\
-Please cite us if you use this code or corpus.\
+Please cite us if you use this code or corpus.
 
 @Published{\
   title = 	 {Disambiguation Keybaord for Blind},\
@@ -15,6 +15,6 @@ Please cite us if you use this code or corpus.\
   month = 	 {24--29 Sept},\
   pdf = 	 {http://ifip-tc13.org/wp-content/uploads/2018/03/INTERACT_2017_Adjunct_v4_final_24jan.pdf},\
   url = 	 {http://ifip-tc13.org/interact/interact2017-adjunct/}\
-}\
+}
 
-For any clarification, comments, or suggestions please create an issue or contact pandeysimran97@gmail.com\
+For any clarification, comments, or suggestions please create an issue or contact pandeysimran97@gmail.com
